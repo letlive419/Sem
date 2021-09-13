@@ -1,0 +1,67 @@
+Seminar ID,Subject Area,Type,Instructor,Length (Hours),Location,Room Capacity,Nbr Registered
+101,Marketing,Undergrad,Wheeler,3,Beltway,30,22
+102,Accounting,Graduate,Connor,5,Beltway,30,33
+103,Information Systems,Undergrad,Ginder,2.5,Main,25,9
+104,Marketing,General Interest,Wheeler,3,Beltway,30,15
+105,Information Systems,Graduate,Ginder,3.5,Main,25,4
+106,Management,Post Grad,Moir,4,Beltway,30,40
+108,Marketing,General Interest,Vinson,3,Main,25,5
+109,Management,Post Grad,Nguyen,4,Main,25,7
+110,Finance,Graduate,Welker,5,Downtown,20,8
+112,Management,General Interest,Moir,3,Beltway,30,34
+113,Information Systems,Undergrad,Conn,2.5,Main,25,7
+114,Management,Undergrad,Moir,3,Beltway,30,19
+115,Marketing,Undergrad,Vinson,3,Main,25,38
+116,Management,Post Grad,Teague,4,Downtown,20,26
+117,Management,Graduate,Moir,4,Beltway,30,15
+118,Marketing,Post Grad,Vinson,4,Main,25,42
+119,Marketing,General Interest,Wheeler,3,Beltway,30,26
+120,Accounting,Graduate,Hamilton,5,Main,25,7
+121,Information Systems,Graduate,Conn,3.5,Main,25,20
+122,Accounting,Undergrad,Connor,3,Beltway,30,39
+123,Information Systems,Undergrad,Flores,2.5,Main,25,23
+124,Information Systems,Graduate,Flores,3.5,Main,25,24
+125,Finance,Post Grad,Welker,5,Downtown,20,7
+126,Marketing,Post Grad,Parker,4,Downtown,20,42
+127,Marketing,Graduate,Parker,4,Downtown,20,16
+128,Management,Post Grad,Teague,4,Downtown,20,42
+129,Marketing,General Interest,Vinson,3,Main,25,44
+130,Marketing,Post Grad,Wheeler,4,Beltway,30,29
+131,Finance,Post Grad,Suiter,5,Beltway,30,15
+133,Information Systems,Post Grad,Ginder,3,Main,25,36
+134,Accounting,General Interest,Hamilton,3,Main,25,41
+135,Management,Undergrad,Nguyen,3,Main,25,19
+136,Finance,Undergrad,Welker,3,Downtown,20,45
+137,Accounting,Post Grad,Connor,5,Beltway,30,35
+138,Management,Graduate,Nguyen,4,Main,25,33
+139,Marketing,Post Grad,Vinson,4,Main,25,30
+140,Marketing,Undergrad,Wheeler,3,Beltway,30,36
+141,Management,Graduate,Teague,4,Downtown,20,25
+143,Marketing,General Interest,Vinson,3,Main,25,12
+144,Marketing,Post Grad,Parker,4,Downtown,20,41
+145,Management,Undergrad,Moir,3,Beltway,30,23
+146,Information Systems,Post Grad,Conn,3,Main,25,22
+147,Management,General Interest,Nguyen,3,Main,25,0
+149,Marketing,Post Grad,Parker,4,Downtown,20,6
+150,Management,Post Grad,Moir,4,Beltway,30,36
+151,Marketing,Graduate,Vinson,4,Main,25,23
+152,Marketing,Post Grad,Wheeler,4,Beltway,30,32
+153,Marketing,Graduate,Parker,4,Downtown,20,8
+154,Marketing,Post Grad,Vinson,4,Main,25,15
+155,Accounting,Graduate,Hamilton,5,Main,25,27
+156,Marketing,Graduate,Wheeler,4,Beltway,30,38
+157,Information Systems,General Interest,Flores,2,Main,25,15
+158,Information Systems,General Interest,Ginder,2,Main,25,17
+159,Finance,Graduate,Suiter,5,Beltway,30,21
+160,Management,General Interest,Nguyen,3,Main,25,25
+161,Management,General Interest,Teague,3,Downtown,20,3
+163,Management,Post Grad,Teague,4,Downtown,20,34
+164,Management,Post Grad,Moir,4,Beltway,30,22
+165,Management,General Interest,Teague,3,Downtown,20,1
+169,Management,Post Grad,Moir,4,Beltway,30,41
+171,Finance,Graduate,Suiter,5,Beltway,30,17
+175,Management,General Interest,Teague,3,Downtown,20,21
+176,Accounting,General Interest,Connor,3,Beltway,30,5
+178,Finance,General Interest,Welker,3,Downtown,20,25
+179,Finance,Post Grad,Suiter,5,Beltway,30,28
+180,Marketing,Graduate,Parker,4,Downtown,20,26

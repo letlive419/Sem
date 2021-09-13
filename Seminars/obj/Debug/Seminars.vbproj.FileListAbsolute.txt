@@ -1,0 +1,13 @@
+C:\Users\Elvis\Documents\VSFIUNEW\Seminars\Seminars\bin\Debug\Seminars.exe.config
+C:\Users\Elvis\Documents\VSFIUNEW\Seminars\Seminars\bin\Debug\Seminars.exe
+C:\Users\Elvis\Documents\VSFIUNEW\Seminars\Seminars\bin\Debug\Seminars.pdb
+C:\Users\Elvis\Documents\VSFIUNEW\Seminars\Seminars\bin\Debug\Seminars.xml
+C:\Users\Elvis\Documents\VSFIUNEW\Seminars\Seminars\obj\Debug\Seminars.vbprojAssemblyReference.cache
+C:\Users\Elvis\Documents\VSFIUNEW\Seminars\Seminars\obj\Debug\Seminars.frmListView.resources
+C:\Users\Elvis\Documents\VSFIUNEW\Seminars\Seminars\obj\Debug\Seminars.Resources.resources
+C:\Users\Elvis\Documents\VSFIUNEW\Seminars\Seminars\obj\Debug\Seminars.vbproj.GenerateResource.cache
+C:\Users\Elvis\Documents\VSFIUNEW\Seminars\Seminars\obj\Debug\Seminars.vbproj.CoreCompileInputs.cache
+C:\Users\Elvis\Documents\VSFIUNEW\Seminars\Seminars\obj\Debug\Seminars.exe
+C:\Users\Elvis\Documents\VSFIUNEW\Seminars\Seminars\obj\Debug\Seminars.xml
+C:\Users\Elvis\Documents\VSFIUNEW\Seminars\Seminars\obj\Debug\Seminars.pdb
+C:\Users\Elvis\Documents\VSFIUNEW\Seminars\Seminars\obj\Debug\Seminars.frmStats.resources
